@@ -1,2 +1,2 @@
-# doublylinkedlist
-Doubly Linked List in JavaScript
+# Linked List
+Linked List in JavaScript
